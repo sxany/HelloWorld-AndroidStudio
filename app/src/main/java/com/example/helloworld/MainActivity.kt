@@ -97,6 +97,8 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+        val dbHelper = DatabaseHelper(this)
+
         //API MAP
         val mapView = findViewById<MapView>(R.id.mapView)
         mapView.setTileSource(TileSourceFactory.MAPNIK)
