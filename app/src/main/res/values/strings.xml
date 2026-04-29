@@ -3,4 +3,5 @@
     <string name="teks">Masukan Nama Anda</string>
     <string name="hint">Ketikan Nama Lengkap Anda</string>
     <string name="btnKirim">Kirim </string>
+    <string name="foto">Ambil Foto</string>
 </resources>
